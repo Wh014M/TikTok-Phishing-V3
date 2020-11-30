@@ -13,6 +13,7 @@
    </p>   
 <p align="left">
    <img src="https://raw.githubusercontent.com/swagkarna/TikTok-Phishing-V3/main/Screenshot%20(7).png" width=450px height=550px>
-   </p>   
-## Disclaimer :
-### Note : Use it only for educational purpose 
+   </p>
+   
+##  Disclaimer :
+##  Note : Use it only for educational purpose 
